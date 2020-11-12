@@ -1,1 +1,1 @@
-## A CLI to quickly create a simple and new JS or TS project
+## A CLI to quickly create a simple JS or TS project

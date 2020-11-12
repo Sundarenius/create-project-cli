@@ -1,0 +1,32 @@
+{
+  "name": "@hakansundstrom/create-project",
+  "version": "1.0.2",
+  "description": "A cli tool to fast create s tiny js/ts setup",
+  "main": "src/index.js",
+  "author": "Håkan Sundström <sundarenius@gmail.com> (https://github.com/Sundarenius)",
+  "bin": {
+    "create-project": "bin/create-project"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "man": "./man/create-project-man.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "create-project"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^4.1.3",
+    "chalk": "^4.1.0",
+    "esm": "^3.2.25",
+    "execa": "^4.1.0",
+    "inquirer": "^7.3.3",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0"
+  }
+}

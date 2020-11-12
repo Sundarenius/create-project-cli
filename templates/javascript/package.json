@@ -1,0 +1,15 @@
+{
+  "name": "javascript-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "Håkan Sundström <sundarenius@gmail.com> (https://github.com/Sundarenius)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.18"
+  }
+}

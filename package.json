@@ -1,6 +1,6 @@
 {
   "name": "@hakansundstrom/create-project",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A cli tool to fast create s tiny js/ts setup",
   "main": "src/index.js",
   "author": "Håkan Sundström <sundarenius@gmail.com> (https://github.com/Sundarenius)",
